@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
-import Logo from "./Logo";
 import Link from 'next/link';
 import FacebookLoginButton from "./FacebookBtn";
 import GoogleBtn from "./GoogleBtn";
